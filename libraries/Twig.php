@@ -7,6 +7,7 @@
  * @copyright  2015 Kenji Suzuki
  * @link       https://github.com/kenjis/codeigniter-ss-twig
  */
+defined('BASEPATH') OR exit('No direct script access allowed');
 
 // If you don't use Composer, uncomment below
 /*
