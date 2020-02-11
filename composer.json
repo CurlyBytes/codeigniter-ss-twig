@@ -13,13 +13,8 @@
         }
     ],
     "require": {
-<<<<<<< HEAD
         "php": ">=7.1.0",
         "twig/twig": "^2.0||^3.0"
-=======
-        "php": ">=5.4.0",
-        "twig/twig": "~1.38"
->>>>>>> upstream/master
     },
     "require-dev": {
         "codeigniter/framework": "3.1.*",
