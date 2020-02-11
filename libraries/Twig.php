@@ -122,7 +122,7 @@ class Twig
 
 		if ($this->config['debug'])
 		{
-			$twig->addExtension(new \Twig_Extension_Debug());
+			$twig->addExtension(new \Twig\Extension\DebugExtension());
 		}
 
 		$this->twig = $twig;
